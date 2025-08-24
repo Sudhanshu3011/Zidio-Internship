@@ -1,0 +1,8 @@
+# Environment variables
+FraudDetection/.env
+
+# Python cache
+FraudDetection/utils/__pycache__/
+
+# Data files (large dataset)
+FraudDetection/data/AIML_Dataset.csv

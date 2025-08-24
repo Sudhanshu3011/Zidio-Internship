@@ -1,7 +1,6 @@
-
-
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
+
 
 def preprocess_input(data):
     """
