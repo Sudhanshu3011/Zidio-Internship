@@ -1,0 +1,2 @@
+Model,RMSE,MAE,MAPE (%),R2 Score
+LSTM,3.66,2.59,127.7,-0.1219

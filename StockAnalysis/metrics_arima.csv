@@ -1,0 +1,2 @@
+Model,RMSE,MAE,MAPE (%),R2 Score
+ARIMA,3.76,2.83,184.88,-0.181
