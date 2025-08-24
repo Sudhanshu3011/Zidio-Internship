@@ -6,3 +6,4 @@ FraudDetection/utils/__pycache__/
 
 # Data files (large dataset)
 FraudDetection/data/AIML_Dataset.csv
+"FraudDetection/data/AIML_Dataset.csv" 
